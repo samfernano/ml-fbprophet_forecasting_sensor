@@ -7,13 +7,21 @@ series prediction of energy consumption in various sensors of an IoT platform fr
 ### Important links 
 
 Homepage: https://facebook.github.io/prophet/
+
 HTML documentation: https://facebook.github.io/prophet/docs/quick_start.html
+
 Issue tracker: https://github.com/facebook/prophet/issues
+
 Source code repository: https://github.com/facebook/prophet
+
 Contributing: https://facebook.github.io/prophet/docs/contributing.html
+
 Prophet R package: https://cran.r-project.org/package=prophet
+
 Prophet Python package: https://pypi.python.org/pypi/prophet/
+
 Release blogpost: https://research.fb.com/prophet-forecasting-at-scale/
+
 Prophet paper: Sean J. Taylor, Benjamin Letham (2018) Forecasting at scale. The American Statistician 72(1):37-45 (https://peerj.com/preprints/3190.pdf).
 
 ### Install in Python
